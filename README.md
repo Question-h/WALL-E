@@ -1,2 +1,2 @@
 # walle
-Raspberry Pi &amp; walle robot
+Raspberry Pi &amp; WALL-E robot
